@@ -10,3 +10,4 @@ You'll need to use the Moment.js library to work with date and time. Be sure to 
 
     1. Header displays time with specific day of week and date.
     2. Added First Row, still need to update sizes
+![image](https://user-images.githubusercontent.com/90801203/142561966-f49d001f-d3f2-4b68-bba2-fa3bb6f093f6.png)
